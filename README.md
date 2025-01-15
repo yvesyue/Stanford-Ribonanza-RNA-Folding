@@ -46,7 +46,8 @@ Injecting meaningful features is both efficient and effective for limited-resour
 
 Generalization to longer sequences requires architectural enhancements combined with robust preprocessing.
 
-Conclusion
+
+## Conclusion
 
 This project underscores the value of combining cutting-edge ML techniques with domain-specific insights. The lessons learned can guide future RNA folding prediction and BioAI research efforts.
 
