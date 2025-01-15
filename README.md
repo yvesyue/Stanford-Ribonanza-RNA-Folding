@@ -36,7 +36,7 @@ Transformers excel at sequence prediction tasks.
 
 Domain-specific features like BPP significantly boost performance.
 
-Simpler, resource-efficient solutions often outperform computationally heavy methods.
+Simpler, resource-efficient solution is better.
 
 ## Insights
 
